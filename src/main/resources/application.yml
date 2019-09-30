@@ -1,0 +1,8 @@
+server:
+  port: 9999
+aliyun:
+  oss:
+    endPoint: http://oss-cn-hangzhou.aliyuncs.com
+    accessKeyId: LTAIOhuGwfpXp9J2
+    accessKeySecret: Fib7e89aT3a88O4sr241gPhhr7q3MG
+    bucketName: wkt-wtt
